@@ -1,0 +1,11 @@
+{
+  "name": "node.js-portfolio-task",
+  "version": "1.0.0",
+  "description": "A node.js portfolio task",
+  "main": "index.js",
+  "scripts": {
+    "test": "'test'"
+  },
+  "author": "chihurumnanya",
+  "license": "ISC"
+}
